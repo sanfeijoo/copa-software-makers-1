@@ -1,24 +1,32 @@
 # Copa Software Makers
 
-La **Copa Software Makers** es un torneo de Fútbol para empresas que hacen software.
+La **Copa Software Makers** es un torneo de Fútbol 5 para empresas que hacen software.
 
 ![](https://github.com/PabloVallejo/copa-software-makers/blob/master/photo.jpeg?raw=true)
+
+La duración del torneo es de 5 semanas y los equpos estarán divididos en dos grupos.
+
+### Calendario
+
+En la primera ronda (semanas 1, 2 y 3) los 4 equipos de cada grupo se enfrentarán, los cuatro ganadres jugarán dos semifinales y de allí saldrán los dos equipos que jugarán la gran final.
+
+| Semana 1        | Semana 2        | Semana 3       | Semifinal Semana 4  | Gran Final Semana 5
+| ----------------|:---------------:| --------------:|----------:|----------
+| Equipos A vs B  | Equipos A vs C  | Equipos A vs D | ...       | ...
+| Equipos C vs D  | Equipos D vs B  | Equipos C vs B | ...       | ...
+| Equipos E vs F  | Equipos E vs G  | Equipos E vs H | ...       | ...
+| Equipos G vs H  | Equipos F vs H  | Equipos F vs G | ...       | ...
+
 
 ### Inscripción
 
 Para registrar tu equipo debes crear un **[pull request](https://help.github.com/articles/using-pull-requests/)** donde listes el nombre de tu equipo y los miembros en  **[equipos.md](https://github.com/PabloVallejo/copa-software-makers/blob/master/equipos.md)**. 
-Cada equipo debe contar con 5 jugadores
-
-**Ejemplo:**
+Cada equipo puede tener de 5 a 8 jugadores.
 
 
-### Acme
+### Reglas 
 
-* John Doe - @johndoe
-* Jeny Doe - @jennydoe
-* Shaina Shupp - @sshup
-* Brenton Friedel @brfrie
-* Pepito perez - @pperez
-
+* Los equpos deben tener como maáximo 8 jugadores (5 jugando y 3 en banca).
+* Solo pueden jugar las personas que se encuentren inscritas en cada equipo.
 
 
