@@ -20,8 +20,8 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 
 ### [Axiacore](http://axiacore.com)
 
-* Santiago Feijoo - @sanfeijoo
-* Camilo Nova - @camilonova
+* Santiago Feijoo - [@sanfeijoo](https://twitter.com/sanfeijoo)
+* Camilo Nova - [@camilonova](https://twitter.com/camilonova)
 * Ivan Ramirez - @ivancarrancho
 * Pablo Vallejo - [@pablovallejo](https://github.com/pablovallejo)
 * Felipe Gonzales - @felipe3dfx
