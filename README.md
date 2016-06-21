@@ -6,11 +6,30 @@ La **Copa Software Makers** es un torneo de Fútbol 5 para empresas que hacen so
 
 La duración del torneo es de 5 semanas, en cada una se jugará un partido los Miércoles a las 7:00 PM, los equpos estarán divididos en dos grupos.
 
+### Grupos
+
+#### Grupo 1
+| Equipos         | Pts | PG  | PE  | PP  | GF  | GC  | DF  |
+| ----------------|:---:| :--:|:---:|:---:|:---:|:---:|:---:|
+| Equipo A        | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| Equipo B        | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| Equipo C        | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| Equipo D        | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+
+#### Grupo 2
+| Equipos         | Pts | PG  | PE  | PP  | GF  | GC  | DF  |
+| ----------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Equipo E        | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| Equipo F        | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| Equipo G        | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| Equipo H        | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+
+
 ### Calendario
 
 > Fecha de inicio: Julio de 2016, día aún por definir
 
-En la primera ronda (semanas 1, 2 y 3) los 4 equipos de cada grupo se enfrentarán, los cuatro ganadres jugarán dos semifinales y de allí saldrán los dos equipos que jugarán la gran final.
+En la primera ronda (semanas 1, 2 y 3) los 4 equipos de cada grupo se enfrentarán, los cuatro ganadores jugarán dos semifinales y de allí saldrán los dos equipos que jugarán la gran final.
 
 | Semana 1        | Semana 2        | Semana 3       | Semifinal Semana 4  | Gran Final Semana 5
 | ----------------|:---------------:| --------------:|----------:|----------
