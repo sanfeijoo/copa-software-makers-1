@@ -4,7 +4,7 @@ La **Copa Software Makers** es un torneo de Fútbol 5 para empresas que hacen so
 
 ![](https://github.com/PabloVallejo/copa-software-makers/blob/master/photo.jpeg?raw=true)
 
-La duración del torneo es de 5 semanas y los equpos estarán divididos en dos grupos.
+La duración del torneo es de 5 semanas, en cada una se jugará un partido los Miércoles a las 7:00 PM, los equpos estarán divididos en dos grupos.
 
 ### Calendario
 
