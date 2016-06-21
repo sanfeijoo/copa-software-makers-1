@@ -28,7 +28,7 @@ Cada equipo puede tener de 5 a 8 jugadores.
 
 ### Reglas 
 
-* Los equpos deben tener como maáximo 8 jugadores (5 jugando y 3 en banca).
+* Los equpos deben tener como máximo 8 jugadores (5 jugando y 3 en banca).
 * Solo pueden jugar las personas que se encuentren inscritas en cada equipo.
 
 
