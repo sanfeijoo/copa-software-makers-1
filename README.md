@@ -8,6 +8,8 @@ La duración del torneo es de 5 semanas y los equpos estarán divididos en dos g
 
 ### Calendario
 
+> Fecha de inicio: Julio de 2016, día aún por definir
+
 En la primera ronda (semanas 1, 2 y 3) los 4 equipos de cada grupo se enfrentarán, los cuatro ganadres jugarán dos semifinales y de allí saldrán los dos equipos que jugarán la gran final.
 
 | Semana 1        | Semana 2        | Semana 3       | Semifinal Semana 4  | Gran Final Semana 5
