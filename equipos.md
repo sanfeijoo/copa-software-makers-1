@@ -30,4 +30,11 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 ### [Anthropologic](http://anthropologic.co/)
 
 * Otto Nassar - [@ottonassar](https://twitter.com/ottonassar)
+* ...
+
+
+### [EduNext](https://www.edunext.co/)
+
+* Daniel Naranjo - [@Bound3R](https://github.com/Bound3R)
+* ...
 
